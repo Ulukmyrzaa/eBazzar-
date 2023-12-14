@@ -6,3 +6,4 @@ idea/
 db.sqlite3
 __pycache__/
 .env
+ebazar/.env
